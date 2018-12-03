@@ -1,8 +1,6 @@
-Html Hello World Demo
-=====================
+Html IFrame onload Demo
+=======================
 
 ```
 open index.html
 ```
-
-You will see `Hello, World!` on page.
